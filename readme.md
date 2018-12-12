@@ -19,6 +19,7 @@ web扫描工具，目前支持的模块，以后学了什么新东西也对其�
   - unauthorized（服务器未授权端口扫描，目前支持MySQL ，Ftp，Redis，MongoDB，Memcached，Jenkins，Elasticsearch，Hadoop （50070），Hadoop（8088-RCE），CouchDB ，Docker-Api,Zookeeper )
 - cms
   - phpcms2008 （phpcms2008 type.php远程命令执行）
+  - tp5rce (thinkphp5.0 5.1 远程代码执行)
 
 # USE
 
